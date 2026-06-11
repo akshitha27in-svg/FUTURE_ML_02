@@ -152,5 +152,4 @@ ________________________________________
 👨‍💻 Author
 Madiraju Himaja Sripriya
 Machine Learning Intern Project – Future Interns 2026
-Karthikeya Utukuru
-Machine Learning Intern Project – Future Interns 2026
+
